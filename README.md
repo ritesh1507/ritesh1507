@@ -1,8 +1,8 @@
 #   About Me:
-I'm a 4th year undergrad pursuing B.Tech in Computer Engineering from Delhi Technological University. <br>I'm currently working on MERN stack projects.<br>Looking forward to collaborate on frontend and backend projects.<br> 
+I'm a 4th year undergrad pursuing B.Tech in Computer Engineering from Delhi Technological University. <br>I'm currently working on MERN stack projects.<br>Looking forward to collaborate on innovative frontend and backend projects.<br> 
 
 
-##  Socials:
+#  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesharah) 
 
 #   Tech Stack:
